@@ -12,6 +12,7 @@
     "@react-native-async-storage/async-storage": "2.2.0",
     "@react-navigation/native": "^6.1.18",
     "@react-navigation/native-stack": "^6.11.0",
+    "canvas": "^3.2.3",
     "expo": "~54.0.0",
     "expo-linear-gradient": "~15.0.8",
     "expo-speech": "~14.0.8",
